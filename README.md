@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TestSenpai
 - 👀 I’m interested in Testing and Developing new tools
-- 📫 How to reach me:
-[Linkedin](https://www.linkedin.com/in/alireza-soltani-jazi/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alireza-soltani-jazi/)
 
 <!---
 TestSenpai/TestSenpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
