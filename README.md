@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TestSenpai
+- 👋 Hi, I’m @AlirezaSoltaniJazi
 - 👀 I’m interested in Testing and Developing new tools
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alireza-soltani-jazi/)
 
