@@ -1,4 +1,4 @@
-# Alireza SoltaniJazi - Senior Software Test Engineer/Senior QA Engineer/Test Engineers Team Lead
+# Alireza SoltaniJazi - Senior Software Test Engineer/Senior QA Engineer/Test Engineers Lead
 
 - 👋 Hi, I’m @AlirezaSoltaniJazi
 - 👀 I’m a huge fan of Testing and Developing new tools.
