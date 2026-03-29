@@ -70,7 +70,7 @@
 ### 💼 Where I've Worked
 
 ```
-🏢 Huma (Current)                               →  Lead Test Engineer         [2026 – ...]
+🏢 Huma (Current)                               →  SDET         [2026 – ...]
 🏢 Divar (Hezardastan Group)                    →  Lead Test Engineer         [2024 – 2025]
 🏢 Cafe Bazaar / BazaarPay (Hezardastan Group)  →  Senior Test Engineer       [2021 – 2024]
 🏢 Digikala / Digipay                           →  Software Test Engineer     [2020 – 2021]
