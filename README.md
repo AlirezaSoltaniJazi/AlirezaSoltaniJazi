@@ -56,19 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlirezaSoltaniJazi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaSoltaniJazi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaSoltaniJazi&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ### 🏅 Key Wins
 
 | 🎯 Achievement | 📈 Impact |
@@ -83,11 +70,12 @@
 ### 💼 Where I've Worked
 
 ```
-🏢 Divar (Hezardastan Group)    →  Lead Test Engineer         [2024 – 2025]
-🏢 Cafe Bazaar / BazaarPay      →  Senior Test Engineer       [2021 – 2024]
-🏢 Digikala / Digipay           →  Software Test Engineer     [2020 – 2021]
-🏢 Avihang                      →  Software Test Engineer     [2018 – 2020]
-🏢 Dropp Technologies           →  Software Test Engineer     [2017 – 2018]
+🏢 Huma (Current)                               →  Lead Test Engineer         [2026 – ...]
+🏢 Divar (Hezardastan Group)                    →  Lead Test Engineer         [2024 – 2025]
+🏢 Cafe Bazaar / BazaarPay (Hezardastan Group)  →  Senior Test Engineer       [2021 – 2024]
+🏢 Digikala / Digipay                           →  Software Test Engineer     [2020 – 2021]
+🏢 Avihang                                      →  Software Test Engineer     [2018 – 2020]
+🏢 Dropp Technologies                           →  Software Test Engineer     [2017 – 2018]
 ```
 
 ---
