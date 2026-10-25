@@ -112,9 +112,9 @@
 
 | Project | What it does |
 |---|---|
-| 🦅 **Senmurv** | Browser-based QA & test-automation toolkit (Chrome/Firefox side panel): test data generation, locator finder that exports to Playwright, Cypress & Selenium, and a flow recorder |
-| 🧩 **Skillnir** | Python CLI/web tool that generates AI coding skills and injects them across **8 AI assistants** from one source |
-| 📊 **Claude Pulse** | VS Code extension for monitoring Claude Code usage |
+| 🦅 **[Senmurv](https://github.com/AlirezaSoltaniJazi/Senmurv)** | Browser-based QA & test-automation toolkit (Chrome/Firefox side panel): test data generation, locator finder that exports to Playwright, Cypress & Selenium, and a flow recorder |
+| 🧩 **[Skillnir](https://github.com/AlirezaSoltaniJazi/Skillnir)** | Python CLI/web tool that generates AI coding skills and injects them across **8 AI assistants** from one source |
+| 📊 **[Claude Pulse](https://github.com/AlirezaSoltaniJazi/claude-pulse)** | VS Code extension for monitoring Claude Code usage |
 | ✍️ **[How to Create an Impressive AI Coding Skill That Works Everywhere](https://medium.com/@alireza.soltani.jazi)** | Medium, 2026 |
 
 ---
